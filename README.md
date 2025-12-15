@@ -50,14 +50,17 @@ Whole-brain modeling/
     ├── Pysr_growth_area.py             # Symbolic regression for tangential growth
     └── Pysr_growth_thickness.py        # Symbolic regression for radial growth
 
+---
+
 ## Large Files and External Data
 
 Large files (including high-resolution figures, movies, and full Abaqus input files)
 are not included in this repository due to size constraints. These materials are provided
 for peer review via a private Figshare link:
 
-https://figshare.com/s/d8a38f13f3a4ea63d8c3
+[Private Figshare link (reviewer access)](https://figshare.com/s/d8a38f13f3a4ea63d8c3)
 
+---
 
 ## Software Requirements
 
@@ -69,12 +72,6 @@ https://figshare.com/s/d8a38f13f3a4ea63d8c3
 
 ## Data Availability
 
-Due to **data-use agreements** and **computational scale**, the following materials are
-**not included** in this repository:
-
-- Full prenatal MRI datasets (dHCP)  
-- High-resolution cortical surface meshes  
-- Full Abaqus simulation output files (`.odb`)  
-
 The prenatal MRI data used in this study are publicly available from the  
 **Developing Human Connectome Project (dHCP)** under standard access agreements.
+---
