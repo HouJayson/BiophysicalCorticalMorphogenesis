@@ -38,21 +38,6 @@ Whole-brain modeling/
 │   └── mfile/                          # MATLAB utilities for folding metrics (not expanded)
 │
 ├── figure scripts/
-│   ├── fig2c.py
-│   ├── fig4a.py
-│   ├── fig4b.py
-│   ├── fig4c.py
-│   ├── fig4f.py
-│   ├── fig5c.py
-│   ├── fig5d.opju
-│   ├── fig6c_heatmap.py
-│   ├── fig6c_radar.py
-│   ├── fig6d.opju
-│   ├── fig7a.py
-│   ├── fig7d.py
-│   ├── fig7e.py
-│   ├── fig7g.py
-│   ├── fig7i.py
 │   └── metadata/
 │       ├── dataFigures.xlsx            # Processed data for figure plotting
 │       └── dataSR.xlsx                 # Data used for symbolic regression plots
