@@ -10,7 +10,7 @@ Mir Jalil Razavi, Tianming Liu, Ellen Kuhl, Gang Li, Xianqiao Wang
 
 ## Overview
 
-This repository contains the **analysis and simulation code** supporting above manuscript  
+This repository contains the **analysis and simulation code** supporting the above manuscript.
 
 The study presents a **whole-brain computational framework** for modeling prenatal cortical
 folding that integrates:
@@ -24,10 +24,13 @@ folding that integrates:
 This repository is provided **exclusively for peer review purposes** and is **not intended
 for public release** at this stage.
 
-A public version of the code (with DOI) will be prepared upon manuscript acceptance.
+A public version of the code (with a DOI) will be prepared upon manuscript acceptance.
 
-The repository is arranged as:
+---
 
+## Repository Structure
+
+```text
 Whole-brain modeling/
 ├── README.md
 │
@@ -38,15 +41,23 @@ Whole-brain modeling/
 │   └── mfile/                          # MATLAB utilities for folding metrics (not expanded)
 │
 ├── figure scripts/
-│   └── metadata/
-│       ├── dataFigures.xlsx            # Processed data for figure plotting
-│       └── dataSR.xlsx                 # Data used for symbolic regression plots
+│   ├── metadata/
+│   │   ├── dataFigures.xlsx            # Processed data for figure plotting
+│   │   └── dataSR.xlsx                 # Data used for symbolic regression plots
+│   └── (figure-generation scripts)
 │
 └── symbolic regression/
     ├── Pysr_growth_area.py             # Symbolic regression for tangential growth
     └── Pysr_growth_thickness.py        # Symbolic regression for radial growth
 
----
+## Large Files and External Data
+
+Large files (including high-resolution figures, movies, and full Abaqus input files)
+are not included in this repository due to size constraints. These materials are provided
+for peer review via a private Figshare link:
+
+https://figshare.com/s/d8a38f13f3a4ea63d8c3
+
 
 ## Software Requirements
 
