@@ -50,7 +50,7 @@ Whole-brain modeling/
     ├── Pysr_growth_area.py             # Symbolic regression for tangential growth
     └── Pysr_growth_thickness.py        # Symbolic regression for radial growth
 
----
+```
 
 ## Large Files and External Data
 
