@@ -20,9 +20,6 @@ folding that integrates:
 - Symbolic regression for characterization of regional growth trajectories  
 - Quantitative evaluation of folding at global, regional, and vertex levels  
 
-This repository is provided **exclusively for peer review purposes** and is **not intended
-for public release** at this stage.
-
 A public version of the code (with a DOI) will be prepared upon manuscript acceptance.
 
 ---
@@ -55,9 +52,9 @@ Whole-brain modeling/
 
 Large files (including high-resolution figures, movies, and full Abaqus input files)
 are not included in this repository due to size constraints. These materials are provided
-for peer review via a private Figshare link:
+ via a Figshare link:
 
-[Private Figshare link (reviewer access)](https://figshare.com/s/d8a38f13f3a4ea63d8c3)
+[Figshare link](https://figshare.com/s/d8a38f13f3a4ea63d8c3)
 
 ---
 
